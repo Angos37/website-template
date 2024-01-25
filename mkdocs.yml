@@ -1,11 +1,11 @@
 # Change to your own name
-site_name: My Research Page
+site_name: Hugo Schérer Research Page
 # Change to your own site
-site_url: https://steob92.github.io/mcgill-tutorial/ # must have the trailing slash
-site_author: Your Name (stephan.obrien@mcgill.ca)
-site_description: Research site for Your Name 
+site_url: https://www.physics.mcgill.ca/~hscherer/ # must have the trailing slash
+site_author: Hugo Schérer (hugo.scherer@mail.mcgill.ca)
+site_description: Research site for Hugo Schérer
 copyright: > # should remain a link to the original theme
-  &copy; 2023 Your Name <br>
+  &copy; 2024 Hugo Schérer <br>
   <a href="https://github.com/vuquangtrong/mkdocs-material-blog">Blog Theme</a> /
   <a href="https://squidfunk.github.io/mkdocs-material/">Material for MkDocs</a>
 
@@ -56,9 +56,9 @@ extra_javascript:
 # For describing the navigation panel
 nav:
   - Home: index.md
-  - About Me: about/index.md
+#  - About Me: about/index.md
   - Research: reasearch/index.md
-  - Projects: projects/index.md
+#  - Projects: projects/index.md
 
 # Extensions that we want to use
 markdown_extensions:
